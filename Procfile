@@ -1,1 +1,1 @@
-web: java -jar school.jar
+web: java -jar maven-wrapper-3.1.0.jar
