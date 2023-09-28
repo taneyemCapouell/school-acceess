@@ -1,1 +1,1 @@
-web: java -jar maven-wrapper-3.1.0.jar
+web: java -jar school-master - Copie.jar
