@@ -1,1 +1,1 @@
-web: java -jar target/school.jar
+web: java -jar school.jar
