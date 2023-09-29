@@ -1,1 +1,1 @@
-web: java -jar GestionScolaireApplication.jar
+web: java -jar gestionscolaire.jar
